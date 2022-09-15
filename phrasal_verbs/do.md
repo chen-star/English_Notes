@@ -1,6 +1,6 @@
 # do
 
-### Inseparable
+### Separable
 * do sth up
   1. zip sth up, tie sth up
   2. decorate 
@@ -29,7 +29,7 @@
 
 ---
 
-### Separable
+### Inseparable
 * do without sth
   * live without sth, go without sth, get by without sth
 
